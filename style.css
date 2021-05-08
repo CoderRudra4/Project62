@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background-color: #7e07f5;
+}
+h1{
+	font-size:40px ;
+	font-family:cursive;
+	font-weight:300;
+}
+
+#photo gallery{
+	height: 40px;
+	width: 40px;
+}
+#gird{
+	height: 200px;
+	width: 210px;
+}	
+.line{
+	height:6px;
+	width: 70px;
+	margin: 8px auto;
+}
+.container
+{
+    text-align: center;
+}
